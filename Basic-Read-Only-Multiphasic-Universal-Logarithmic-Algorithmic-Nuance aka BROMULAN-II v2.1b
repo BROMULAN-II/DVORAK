@@ -1,0 +1,10 @@
+Retrieve executable code from previous verssion.
+REM add a rem line
+* add one of these too since it is 2014
+upload code variance as per 2014
+integrate previous and current executable code
+for X=1 to 1.000.000
+x=x+1
+Next
+debug
+EXECUTE: RUN DVORAK.dll
